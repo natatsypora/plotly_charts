@@ -1,5 +1,5 @@
 # Plotly Charts
-Create beautiful charts using the library Plotly
+Create beautiful charts using the Plotly library
 
 ## Waffle Chart 
 From go.Heatmap to Waffle chart 👌
